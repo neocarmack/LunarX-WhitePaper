@@ -1,4 +1,4 @@
-# LunarX-World Wide Table for Data Driven Decentralized Applications
+# LunarX WhitePaper - World Wide Table for Data Driven Decentralized Applications
 
 LunarX is a World Wide distributed Table, designed for building a decentralized, economic, temper proof, anonymous and autonomous data management infrastructure for decentralized applications(DApp) and their users. 
 
