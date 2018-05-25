@@ -1,5 +1,7 @@
 # LunarX WhitePaper - World Wide Table for Data Driven Decentralized Applications
 
+# This repository has been removed to https://github.com/LunarX-ONE/White-Paper
+
 ![](https://img.shields.io/badge/White--Paper-v0.6.0-green.svg)
 
 >LunarX is a World Wide distributed Table, designed for building a decentralized, economic, temper proof, anonymous and autonomous data management infrastructure for decentralized applications(DApp) and their users. 
